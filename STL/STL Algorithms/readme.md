@@ -4,3 +4,4 @@ STL algorithms generally operate on a range defined by iterators, rather than re
 
 STL algorithms need to know the beginning and the end of the range on which they should operate.
 
+https://chatgpt.com/share/6a703171-c368-83ee-9354-b1bd64e39f9a
