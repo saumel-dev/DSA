@@ -12,4 +12,8 @@ int main()
     // time complexity of pop() is O(1) in average case and O(1) in worst case.
 
     cout << st.top() << endl; // Output: 1, returns the top element
+
+    st.empty(); // Checks if the stack is empty
+
+    st.size(); // Returns the number of elements in the stack
 }
